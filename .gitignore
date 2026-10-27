@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+car-pocket-backup-*.json
+*.tar.gz
+.openai/
